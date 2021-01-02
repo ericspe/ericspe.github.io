@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Project Navigator</title>
+  <link rel="icon" href="favicon-32x32.png" alt="webowl visualizations">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.css" />
+    <script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.js'></script>
+    <link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/MarkerCluster.css" />
+    <link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/MarkerCluster.Default.css" />
+    <script type='text/javascript' src='http://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/leaflet.markercluster.js'></script>
+    <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js'></script>
+</head>
+<body>
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark justify-content-center">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="#">Project Navigator: find projects based on Jaccard similarity</a>
+          </li>
+         
+        </ul>
+      </nav>
+      <br>
+
+    <div class="container-fluid">  
+        <div class="row">
+            <div class="col-sm-5">
+            <div class="row">
+                <pre style = "float:left"> Participant  </pre>
+                <select class="search-1" style = "width:50%">
+                  <!--<option></option> -->
+                </select>
+                <br><br>
+                <pre style = "float:left"> Project      </pre>
+                <select class="search-2">
+                  <!--<option></option> -->
+                </select>
+                <div id="graph"></div>
+           </div>
+        <div class="row">
+        <div class="col-sm-5">
+        <div id="map" style="width: 800px; height: 500px; border: 1px solid #AAA; margin-left:45px"></div>
+        </div>
+        </div>
+           </div>
+
+            <div  class="col-sm3">
+              <div id="table" class="table-responsive""></div>
+            </div>
+            <!-- iframe for loading browser page -->
+            <div class="col-sm" >
+                <div id="tags" class="p-3 border bg-light"></div>
+                <br>
+                <div id="status" class="p-3 border bg-light"></div>
+                <h2>Project Summary</h2>
+                <div id="summary" class="p-3 border bg-light">
+                <div id="link" class="p-3 border bg-light">
+                </div>
+                </div>
+                <h3>Participants</h3>
+                <div id="participants" class="p-3 border bg-light"></div>
+
+            </div>
+        </div> 
+    </div>
+ 
+<!-- partial:index.partial.html -->
+<!-- <script type="text/javascript" src="./jquery.js"></script>-->
+<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/css/select2.min.css" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/js/select2.min.js"></script>
+<script src="http://colorbrewer2.org/export/colorbrewer.js"></script>
+<!-- version 3.5-->
+<script type="text/javascript" src="./d3.min.js"></script>
+<script type="text/javascript" src="./trees.js"></script>
+<script type="text/javascript" src="./searchbar.js"></script>
+<script  src="./refresh.js"></script> 
+<!-- partial -->
+<script  src="./table.js"></script> 
+<script  src="./script_test_2.js"></script> 
+<script type='text/javascript' src='maps/markers.js'></script>
+<script type='text/javascript' src='maps/leaf-base.js'></script>
+<script type='text/javascript' src='maps/participants.js'></script>
+<script type='text/javascript' src='maps/leaf-refresh.js'></script>
+
+
+
+
+</body>
+</html>
