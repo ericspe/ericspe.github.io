@@ -2,6 +2,16 @@
 
 // add the search bar 
 $( document ).ready(function() {
+    // code for minimising table
+    $("#button").click(function(){
+      if($(this).html() == "Hide Table"){
+        $(this).html("Show Table");
+      }
+      else{
+          $(this).html("Hide Table");
+      }
+      $("#table").slideToggle();
+  });
     populate_search()
     
     print_summary(root.name)
