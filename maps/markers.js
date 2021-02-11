@@ -1,4 +1,4 @@
-var markers = [
+﻿var markers = [
 {'id': 999654744, 'name': 'REGION HOVEDSTADEN', 'organizationUrl': 'http://www.regionh.dk', 'address': 'KONGENS VAENGE 2, 3400, HILLEROD, DK', 'longitude': 12.3488916, 'latitude': 55.9321242}
 ,
 {'id': 997731137, 'name': 'SANOFI-AVENTIS DEUTSCHLAND GMBH', 'organizationUrl': 'http://www.sanofi.com', 'address': 'BRUNINGSTRASSE 50, 65929, FRANKFURT AM MAIN, DE', 'longitude': 8.5434644, 'latitude': 50.0975652}
@@ -1722,4 +1722,78 @@ var markers = [
 {'id': 998868947, 'name': 'SOCIETE EUROPEENNE DE CARDIOLOGIE', 'organizationUrl': 'http://www.escardio.org', 'address': '6903, BIOT SOPHIA ANTIPOLIS, FR', 'longitude': 7.0861896, 'latitude': 43.6154179}
 ,
 {'id': 951757987, 'name': 'PIVOT PARK SCREENING CENTRE BV', 'organizationUrl': 'http://www.lifesciencespark.nl', 'address': '5349 AB, OSS, NL', 'longitude': 5.5347428, 'latitude': 51.7611847}
+,
+{'id': 895530385, 'name': 'SPARK THERAPEUTICS, INC', 'organizationUrl': 'http://', 'address': '19808, WILMINGTON, US', 'longitude': -75.546589, 'latitude': 39.7459468}
+,
+{'id': 897569422, 'name': 'THE ROSALIND FRANKLIN INSTITUTE', 'organizationUrl': 'http://', 'address': 'OX11 0FA, DIDCOT, UK', 'longitude': -1.243977841587141, 'latitude': 51.6121773}
+,
+{'id': 898072464, 'name': 'DIGITAL PATHOLOGY ASSOCIATION INC', 'organizationUrl': 'http://', 'address': '46032, CARMEL, US', 'longitude': -86.15753500805413, 'latitude': 39.9691527333084}
+,
+{'id': 898118539, 'name': 'PHIT BV', 'organizationUrl': 'http://', 'address': '3528 BL, UTRECHT, NL', 'longitude': 5.1446975, 'latitude': 52.0788128}
+,
+{'id': 904837826, 'name': 'HISTOINDEX PTE LTD', 'organizationUrl': 'http://', 'address': '139955, SINGAPORE, SG', 'longitude': 103.7853594, 'latitude': 1.2979578}
+,
+{'id': 906053721, 'name': 'RESOUNDANT, INC.', 'organizationUrl': 'http://', 'address': '55902, ROCHESTER, US', 'longitude': -92.4892074511769, 'latitude': 43.99554531771938}
+,
+{'id': 908927928, 'name': 'CYTOMINE', 'organizationUrl': 'http://', 'address': '4102, SERAING, BE', 'longitude': 5.547719114253059, 'latitude': 50.58526049870824}
+,
+{'id': 912236016, 'name': 'DECIPHEX LIMITED', 'organizationUrl': 'http://', 'address': 'nan, MORNINGTON MEATH, IE', 'longitude': -6.2825549, 'latitude': 53.7213844}
+,
+{'id': 951218473, 'name': 'ASPHALION SL', 'organizationUrl': 'http://www.asphalion.com', 'address': '8014, BARCELONA, ES', 'longitude': 2.1774322, 'latitude': 41.3828939}
+,
+{'id': 972926491, 'name': 'IMS INFORMATION SOLUTIONS MEDICAL RESEARCH LIMITED', 'organizationUrl': 'http://www.epic-uk.org', 'address': 'NI 9JY, LONDON, UK', 'longitude': -0.1196935, 'latitude': 51.5309271}
+,
+{'id': 986083377, 'name': 'THE LEEDS TEACHING HOSPITALS NATIONAL HEALTH SERVICE TRUST', 'organizationUrl': 'http://www.leedsteachinghospitals.com', 'address': 'LS9 7TF, LEEDS, UK', 'longitude': -1.521480325, 'latitude': 53.8069351}
+,
+{'id': 995440094, 'name': 'OSTERGOTLANDS LANS LANDSTING', 'organizationUrl': 'http://www.lio.se', 'address': '581 91, LINKOPING, SE', 'longitude': 15.6245252, 'latitude': 58.4098135}
+,
+{'id': 998047260, 'name': 'RESEARCH TRIANGLE INSTITUTE', 'organizationUrl': 'http://www.rti-hs.org', 'address': '27709, RESEARCH TRIANGLE PARK, US', 'longitude': -78.87482418022022, 'latitude': 35.90569775}
+,
+{'id': 998200617, 'name': 'CENTRO DE NEUROCIENCIAS E BIOLOGIACELULAR ASSOCIACAO', 'organizationUrl': 'http://www.cnbc.pt', 'address': '3004 517, COIMBRA, PT', 'longitude': -8.4261304, 'latitude': 40.209542}
+,
+{'id': 998217883, 'name': 'ASSOCIATION GENETHON', 'organizationUrl': 'http://www.genethon.fr', 'address': '91002, EVRY, FR', 'longitude': 3.25604, 'latitude': 48.26406}
+,
+{'id': 999953892, 'name': 'INSTITUT NATIONAL DU CANCER GIP', 'organizationUrl': 'http://www.e-cancer.fr', 'address': '92513, BOULOGNE BILLANCOURT, FR', 'longitude': 2.2347472, 'latitude': 48.8370075}
+,
+{'id': 999976784, 'name': 'THE UNIVERSITY OF WARWICK', 'organizationUrl': 'http://www.warwick.ac.uk', 'address': 'CV4 8UW, COVENTRY, UK', 'longitude': -1.564787345973448, 'latitude': 52.38557586542571}
+,
+{'id': 999984738, 'name': 'STICHTING HET NEDERLANDS KANKER INSTITUUT-ANTONI VAN LEEUWENHOEK ZIEKENHUIS', 'organizationUrl': 'http://www.nki.nl', 'address': '1066 CX, AMSTERDAM, NL', 'longitude': 4.8236381, 'latitude': 52.3494659}
+,
+{'id': 893979743, 'name': 'ARTTIC INNOVATION GMBH', 'organizationUrl': 'http://', 'address': 'OSKAR-VON-MILLER-RING 29, 80333, MUNCHEN, DE', 'longitude': 11.5761391, 'latitude': 48.1459612}
+,
+{'id': 897602402, 'name': 'MILTENYI BIOTEC BV & CO KG', 'organizationUrl': 'http://', 'address': 'FRIEDRICH EBERT STRASSE 68, 51429, BERGISCH GLADBACH, DE', 'longitude': 7.182146894061027, 'latitude': 50.9606755}
+,
+{'id': 904723463, 'name': 'THE ECANCER GLOBAL FOUNDATION', 'organizationUrl': 'http://', 'address': '13 KING SQUARE AVENUE, BS2 8HU, BRISTOL, UK', 'longitude': -2.5914418, 'latitude': 51.4609584}
+,
+{'id': 904734521, 'name': 'ECHOSENS', 'organizationUrl': 'http://', 'address': 'RUE FERRUS 6, 75014, PARIS, FR', 'longitude': 2.3406347, 'latitude': 48.8312363}
+,
+{'id': 906315039, 'name': 'AZIENDA OSPEDALIERA PER L EMERGENZA CANNIZZARO', 'organizationUrl': 'http://', 'address': 'VIA MESSINA 829, 95126, CATANIA, IT', 'longitude': 15.1205158, 'latitude': 37.5410119}
+,
+{'id': 914536953, 'name': 'SYNVACCINE LTD', 'organizationUrl': 'http://', 'address': 'HABARZEL ST 27, 6971039, TEL AVIV, IL', 'longitude': 34.8418442, 'latitude': 32.1105688}
+,
+{'id': 928692939, 'name': 'SECTRA AB', 'organizationUrl': 'http://', 'address': 'TEKNIKRINGEN 20, 58330, LINKOPING, SE', 'longitude': 15.55710725092528, 'latitude': 58.39351689999999}
+,
+{'id': 932996053, 'name': 'EUROPEAN SOCIETY OF PATHOLOGY', 'organizationUrl': 'http://', 'address': 'RUE BARA 6, 1070, BRUXELLES, BE', 'longitude': 4.335679635990466, 'latitude': 50.83867055}
+,
+{'id': 961488348, 'name': 'TAKIS SRL', 'organizationUrl': 'http://', 'address': 'VIA DI CASTEL ROMANO 100, 128, ROMA, IT', 'longitude': 12.4477827, 'latitude': 41.7138451}
+,
+{'id': 968944447, 'name': 'GENOSAFE SAS', 'organizationUrl': 'http://www.genosafe.com', 'address': "RUE DE L'INTERNATIONALE 1, 91000, EVRY, FR", 'longitude': 2.449784, 'latitude': 48.619986}
+,
+{'id': 991228063, 'name': 'TIME.LEX', 'organizationUrl': 'http://', 'address': 'JOSEPH STEVENSSTRAAT 7, 1000, BRUSSEL, BE', 'longitude': 4.3524748, 'latitude': 50.8413225}
+,
+{'id': 994543620, 'name': 'GILEAD SCIENCES INC', 'organizationUrl': 'http://www.gilead.com', 'address': 'LAKESIDE DRIVE 333, 94404, FOSTER CITY CA, US', 'longitude': -122.283238, 'latitude': 37.568163}
+,
+{'id': 998904449, 'name': 'LONZA AG', 'organizationUrl': 'http://www.lonza.com', 'address': 'Muenchensteinerstrasse  38, 4002, BASEL, CH', 'longitude': 7.5980808, 'latitude': 47.5459375}
+,
+{'id': 999479659, 'name': 'HAUTE ECOLE SPECIALISEE DE SUISSE OCCIDENTALE', 'organizationUrl': 'http://www.hes-so.ch', 'address': 'Route de Moutier 14, 2800, DELEMONT, CH', 'longitude': 7.352019, 'latitude': 47.3624356}
+,
+{'id': 999548917, 'name': 'DIN DEUTSCHES INSTITUT FUER NORMUNG E.V.', 'organizationUrl': 'http://www.din.de', 'address': 'BURGGRAFENSTRASSE 6, 10787, BERLIN, DE', 'longitude': 13.34445619265711, 'latitude': 52.5055253}
+,
+{'id': 999556677, 'name': 'GBG FORSCHUNGS GMBH', 'organizationUrl': 'http://www.germanbreastgroup.de', 'address': 'MARTIN BEHAIM STRASSE 12, 63263, NEU-ISENBURG, DE', 'longitude': 8.7135797, 'latitude': 50.0480895}
+,
+{'id': 999645820, 'name': 'CSC-TIETEEN TIETOTEKNIIKAN KESKUS OY', 'organizationUrl': 'http://www.csc.fi', 'address': 'KEILARANTA 14, 2101, ESPOO, FI', 'longitude': 24.8335868, 'latitude': 60.1786163}
+,
+{'id': 999789865, 'name': 'INSTITUTO DE BIOLOGIA EXPERIMENTAL E TECNOLOGICA', 'organizationUrl': 'http://www.ibet.pt', 'address': 'AVENIDA DA REPUBLICA QUINTA DO MARQUES, 2781-901, OEIRAS, PT', 'longitude': -9.3228332, 'latitude': 38.6947154}
+,
+{'id': 999977269, 'name': 'TECHNISCHE UNIVERSITEIT EINDHOVEN', 'organizationUrl': 'http://www.tue.nl/en', 'address': 'GROENE LOPER 3, 5612 AE, EINDHOVEN, NL', 'longitude': 5.488453, 'latitude': 51.4467473}
 ];
