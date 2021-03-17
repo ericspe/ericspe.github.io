@@ -1796,4 +1796,24 @@
 {'id': 999789865, 'name': 'INSTITUTO DE BIOLOGIA EXPERIMENTAL E TECNOLOGICA', 'organizationUrl': 'http://www.ibet.pt', 'address': 'AVENIDA DA REPUBLICA QUINTA DO MARQUES, 2781-901, OEIRAS, PT', 'longitude': -9.3228332, 'latitude': 38.6947154}
 ,
 {'id': 999977269, 'name': 'TECHNISCHE UNIVERSITEIT EINDHOVEN', 'organizationUrl': 'http://www.tue.nl/en', 'address': 'GROENE LOPER 3, 5612 AE, EINDHOVEN, NL', 'longitude': 5.488453, 'latitude': 51.4467473}
+,
+{'id': 985920320, 'name': 'CONSORCIO MAR PARC DE SALUT DE BARCELONA', 'organizationUrl': 'http://www.imim.es', 'address': 'PASEO MARITIM 25-29, 8003, BARCELONA, ES', 'longitude': 2.194125054405758, 'latitude': 41.3837721}
+,
+{'id': 994946073, 'name': 'EUROPEAN SOCIETY FOR MEDICAL ONCOLOGY', 'organizationUrl': 'http://www.esmo.org', 'address': 'VIA GINEVRA 4, 6900, LUGANO, CH', 'longitude': 8.951770412445955, 'latitude': 46.0083579}
+,
+{'id': 912942273, 'name': 'KLINICKI BOLNICKI CENTAR RIJEKA', 'organizationUrl': 'http://', 'address': 'KRESIMIROVA 42, 51000, RIJEKA, HR', 'longitude': 14.42751079082253, 'latitude': 45.33235089999999}
+,
+{'id': 959986400, 'name': 'STIFTUNG FUR QUALITAT UND WIRTSCHAFTLICHKEIT IM GESUNDHEITSWESEN', 'organizationUrl': 'http://', 'address': 'GUTENBERGSTRASSE 13, 10587, BERLIN, DE', 'longitude': 13.3287026, 'latitude': 52.5166991}
+,
+{'id': 935347818, 'name': 'MYELOMA PATIENTS EUROPE AISBL', 'organizationUrl': 'http://', 'address': 'AVENUE LOUISE 143 4, 1050, BRUXELLES, BE', 'longitude': 4.3678681, 'latitude': 50.8233282}
+,
+{'id': 905282377, 'name': 'MODUS OUTCOMES SAS', 'organizationUrl': 'http://', 'address': '61 COURS DE LA LIBERTE, 69003, LYON, FR', 'longitude': 4.8428665, 'latitude': 45.7573659}
+,
+{'id': 998267741, 'name': 'JOHNS HOPKINS UNIVERSITY', 'organizationUrl': 'http://www.hopkinsmedicine.org', 'address': 'NORTH CHARLES STREET  3400, 21218, BALTIMORE, US', 'longitude': -76.62186802236883, 'latitude': 39.33020225}
+,
+{'id': 899249656, 'name': 'NATIONAL CANCER CENTER', 'organizationUrl': 'http://', 'address': '5-1-1 TSUKIJI CHUO-KU, 104 0045, TOKYO, JP', 'longitude': 139.7725918, 'latitude': 35.6680848}
+,
+{'id': 997151562, 'name': "Queen's University at Kingston", 'organizationUrl': 'http://www.queensu.ca', 'address': 'University Avenue 99, K7L 3N6, Kingston, CA', 'longitude': -76.4955812, 'latitude': 44.2278671}
+,
+{'id': 901286753, 'name': 'ESD - EVALUATION SOFTWARE DEVELOPMENT GMBH', 'organizationUrl': 'http://', 'address': 'VALIERGASSE 62, 6020, INNSBRUCK, AT', 'longitude': 11.4400117, 'latitude': 47.2655378}
 ];
