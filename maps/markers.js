@@ -1816,4 +1816,22 @@
 {'id': 997151562, 'name': "Queen's University at Kingston", 'organizationUrl': 'http://www.queensu.ca', 'address': 'University Avenue 99, K7L 3N6, Kingston, CA', 'longitude': -76.4955812, 'latitude': 44.2278671}
 ,
 {'id': 901286753, 'name': 'ESD - EVALUATION SOFTWARE DEVELOPMENT GMBH', 'organizationUrl': 'http://', 'address': 'VALIERGASSE 62, 6020, INNSBRUCK, AT', 'longitude': 11.4400117, 'latitude': 47.2655378}
+,
+{'id': 999871539, 'name': 'MARTIN-LUTHER-UNIVERSITAET HALLE-WITTENBERG', 'organizationUrl': 'http://www.uni-halle.de', 'address': 'UNIVERSITAETSPLATZ 10, 6108, HALLE (Saale), DE', 'longitude': 11.9684435, 'latitude': 51.4867452}
+,
+{'id': 898295952, 'name': 'ADELPHI VALUES LTD', 'organizationUrl': 'http://', 'address': 'SE1 0SW, LONDON, UK', 'longitude': -0.09998185028147046, 'latitude': 51.50592904465453}
+,
+{'id': 966802493, 'name': 'FUNDACION PUBLICA MIGUEL SERVET', 'organizationUrl': 'http://', 'address': '31008, PAMPLONA, ES', 'longitude': -1.664726135767088, 'latitude': 42.80790910577748}
+,
+{'id': 998403929, 'name': 'THE UNIVERSITY OF SYDNEY', 'organizationUrl': 'http://www.usyd.edu.au/', 'address': '2006, SYDNEY, AU', 'longitude': 151.1901726422851, 'latitude': -33.88807802717989}
+,
+{'id': 894170445, 'name': 'THE CRITICAL PATH INSTITUTE (C-PATH) NON PROFIT CORPORATION', 'organizationUrl': 'http://', 'address': '85718, TUCSON AZ, US', 'longitude': -110.9667086, 'latitude': 32.2231264}
+,
+{'id': 911181432, 'name': 'UNIVERSITY HEALTH NETWORK', 'organizationUrl': 'http://', 'address': 'M5G2C4, TORONTO, CA', 'longitude': -79.3886083, 'latitude': 43.6588833}
+,
+{'id': 948864283, 'name': 'AGENCIJA ZA LIJEKOVE I MEDICINSKE PROIZVODE', 'organizationUrl': 'http://www.halmed.hr', 'address': 'KSAVERSKA CESTA 4, 10 000, ZAGREB, HR', 'longitude': 15.9788321, 'latitude': 45.8288684}
+,
+{'id': 891878141, 'name': 'UNIVERSITE CLERMONT AUVERGNE', 'organizationUrl': 'http://', 'address': '49 BD FRANCOIS MITTERRAND, 63000, CLERMONT FERRAND, FR', 'longitude': 3.089657, 'latitude': 45.7716611}
+,
+{'id': 891425539, 'name': 'LUPUS EUROPE', 'organizationUrl': 'http://', 'address': "RUE D'EGMONT 11, 1000, BRUSSELS, BE", 'longitude': 4.3655356, 'latitude': 50.8389849}
 ];
